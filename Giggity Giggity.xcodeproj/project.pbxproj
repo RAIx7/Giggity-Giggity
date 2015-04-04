@@ -13,6 +13,7 @@
 		DE68BE191ACB3668006A5953 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE68BE181ACB3668006A5953 /* Images.xcassets */; };
 		DE68BE1C1ACB3668006A5953 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = DE68BE1A1ACB3668006A5953 /* LaunchScreen.xib */; };
 		DE68BE281ACB3668006A5953 /* Giggity_GiggityTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE68BE271ACB3668006A5953 /* Giggity_GiggityTests.swift */; };
+		DE8A3D841AD06D6B00079849 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE8A3D831AD06D6B00079849 /* CardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		DE68BE211ACB3668006A5953 /* Giggity GiggityTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Giggity GiggityTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE68BE261ACB3668006A5953 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DE68BE271ACB3668006A5953 /* Giggity_GiggityTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Giggity_GiggityTests.swift; sourceTree = "<group>"; };
+		DE8A3D831AD06D6B00079849 /* CardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 			isa = PBXGroup;
 			children = (
 				DE68BE111ACB3668006A5953 /* AppDelegate.swift */,
+				DE8A3D821AD06D5000079849 /* Views */,
 				DE68BE131ACB3668006A5953 /* ViewController.swift */,
 				DE68BE151ACB3668006A5953 /* Main.storyboard */,
 				DE68BE181ACB3668006A5953 /* Images.xcassets */,
@@ -110,6 +113,15 @@
 				DE68BE261ACB3668006A5953 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		DE8A3D821AD06D5000079849 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				DE8A3D831AD06D6B00079849 /* CardView.swift */,
+			);
+			name = Views;
+			path = ..;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -212,6 +224,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DE68BE141ACB3668006A5953 /* ViewController.swift in Sources */,
+				DE8A3D841AD06D6B00079849 /* CardView.swift in Sources */,
 				DE68BE121ACB3668006A5953 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -406,6 +419,7 @@
 				DE68BE2D1ACB3668006A5953 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DE68BE2E1ACB3668006A5953 /* Build configuration list for PBXNativeTarget "Giggity GiggityTests" */ = {
 			isa = XCConfigurationList;
@@ -414,6 +428,7 @@
 				DE68BE301ACB3668006A5953 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>38CFDA64-346A-40BD-9EBC-2201C6CD9D59</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Giggity Giggity</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E721A400C83184127FCCB3C40C8AF13A087CF6E3</key>
+		<string>https://github.com/RAIx7/Giggity-Giggity.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Giggity Giggity.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E721A400C83184127FCCB3C40C8AF13A087CF6E3</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/RAIx7/Giggity-Giggity.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E721A400C83184127FCCB3C40C8AF13A087CF6E3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E721A400C83184127FCCB3C40C8AF13A087CF6E3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Giggity%20Giggity</string>
+		</dict>
+	</array>
+</dict>
+</plist>
